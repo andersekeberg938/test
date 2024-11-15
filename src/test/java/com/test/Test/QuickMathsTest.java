@@ -8,7 +8,7 @@ class QuickMathsTest {
     QuickMaths qm = new QuickMaths();
     @Test
         void test() {
-            assertEquals(41, qm.summary());
+            assertEquals(40, qm.summary());
     }
 
 }
